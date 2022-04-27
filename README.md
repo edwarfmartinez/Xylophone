@@ -1,6 +1,6 @@
 # Xylophone
 
-iOS app that emulates the sound of a Xylophone according to the user interaction.
+iOS app that emulates the sound of a Xylophone according user's interaction.
 
 Concepts:
 
